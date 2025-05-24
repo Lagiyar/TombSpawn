@@ -1,12 +1,12 @@
-TombSpawn – My Debut Unity Game
+# TombSpawn – My Debut Unity Game
 
-TombSpawn is a bite-sized 2D game I built during my first dive into Unity for Pixel Game Jam 2025. Battle through a procedurally generated Infected Crypt crawling with pixelated zombies and a challenging boss.
+## TombSpawn is a bite-sized 2D game I built during my first dive into Unity for Pixel Game Jam 2025. Battle through a procedurally generated Infected Crypt crawling with pixelated zombies and a challenging boss.
 
 ![Title](https://github.com/user-attachments/assets/fae6955f-1bbe-48ad-8097-5229935afca2)
 
-🎮 Play it here: https://lagiyar.itch.io/tombspawn
+#### 🎮 Play it here: https://lagiyar.itch.io/tombspawn
 
-Game Highlights
+### Game Highlights
 
     Procedural room generation for varied layouts.
     Each room features a fixed set of zombies (around 7 per room).
@@ -15,25 +15,25 @@ Game Highlights
     Lives system and a soul counter dropped by defeated enemies.
     SFX and VFX for getting hit and attacking.
 
-How to Play
+### How to Play
 
     Click "Start" on the title screen.
     Defeat the zombies in each room.
     Battle the big boss.
     Proceed through the available doors to the next room.
 
-Controls
+### Controls
 
     WASD: Move
     Mouse: Attack (has a cooldown)
 
-My Code Journey
+### My Code Journey
 
-This was my trial-by-fire learning Unity. My code is available for review.
+#### This was my trial-by-fire learning Unity. My code is available for review.
 
-🔗 Explore the scripts: https://github.com/Lagiyar/TombSpawn/tree/main/Assets/Scripts
+#### 🔗 Explore the scripts: https://github.com/Lagiyar/TombSpawn/tree/main/Assets/Scripts
 
-Credits
+### Credits
 
     Font: "Quaver" by Nathan Scott (@caffi_nate)
     Sprites: Player & Zombie Sprites from the Apocalypse Asset Pack by @cuddlebug (https://cuddle-bug.itch.io/apocalypse)
@@ -42,6 +42,6 @@ Credits
     Sound Effects: Hit sound effects generated using Bfxr; Additional sound effects created by me.
     Visual Effects (VFX): Custom VFX created by me.
 
-Licensing
+### Licensing
 
-This project's code is under the MIT License. Feel free to use the code! Please check individual asset licenses for their specific attribution requirements.
+#### This project's code is under the MIT License. Feel free to use the code! Please check individual asset licenses for their specific attribution requirements.
