@@ -33,9 +33,7 @@
 - **WASD**: Move  
 - **Mouse**: Attack (has a cooldown)  
 
-### My Code Journey
-
-This was my trial-by-fire learning Unity. My code is available for review.  
+### My Code 
 🔗 [Explore the scripts](https://github.com/Lagiyar/TombSpawn/tree/main/Assets/Scripts)
 
 ### Credits
@@ -86,9 +84,7 @@ Feel free to use the code! Please check individual asset licenses for their spec
 - **WASD**: Bewegung  
 - **Maus**: Angriff (mit Cooldown)  
 
-### Meine Code-Reise
-
-Das war mein Feuerprobe-Projekt beim Lernen von Unity. Mein Code ist öffentlich einsehbar.  
+### Mein Code
 🔗 [Skripte ansehen](https://github.com/Lagiyar/TombSpawn/tree/main/Assets/Scripts)
 
 ### Danksagungen
@@ -101,7 +97,7 @@ Das war mein Feuerprobe-Projekt beim Lernen von Unity. Mein Code ist öffentlich
 - Hintergrundmusik: Von Abstraction  
   (https://tallbeard.itch.io/music-loop-bundle)  
 - Soundeffekte: Mit Bfxr generiert; zusätzliche Effekte von mir erstellt  
-- Visuelle Effekte (VFX): Eigene Kreationen  
+- Visuelle Effekte (VFX): ich selber 
 
 ### Lizenz
 
